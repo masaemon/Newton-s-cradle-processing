@@ -4,7 +4,7 @@ FCircle [] circle;
 FDistanceJoint [] joint;
 FBox [] box;
 
-int ballnum = 5;
+int ballnum = ;
 
 int ballsize = 60;
 
